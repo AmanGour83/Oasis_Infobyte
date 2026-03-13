@@ -4,7 +4,7 @@
 **Level:** Advanced  
 **Tools Used:** Nmap 7.98, Wireshark  
 **Target:** Metasploitable 2 (10.0.2.3)  
-**Date:** March 10–11, 2026  
+
 
 ---
 

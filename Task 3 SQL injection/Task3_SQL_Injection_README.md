@@ -2,8 +2,7 @@
 
 ## Internship: Oasis Infobyte — Security Analyst Internship
 **Level:** Beginner  
-**Tool Used:** DVWA (Damn Vulnerable Web Application) v1.0.7  
-**Date:** March 12, 2026  
+**Tool Used:** DVWA (Damn Vulnerable Web Application) v1.0.7 
 
 ---
 

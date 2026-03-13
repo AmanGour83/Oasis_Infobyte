@@ -4,7 +4,7 @@
 **Level:** Advanced  
 **Tool Used:** Browser-based manual SQLi  
 **Target Application:** DVWA v1.0.7 on Metasploitable 2  
-**Date:** March 11, 2026  
+ 
 
 ---
 

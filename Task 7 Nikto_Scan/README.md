@@ -3,7 +3,6 @@
 ## Internship: Oasis Infobyte — Security Analyst Internship
 **Level:** Intermediate  
 **Tool Used:** Nikto v2.6.0  
-**Date:** March 10, 2026  
 
 ---
 

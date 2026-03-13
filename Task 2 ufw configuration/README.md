@@ -2,8 +2,7 @@
 
 ## Internship: Oasis Infobyte — Security Analyst Internship
 **Level:** Beginner  
-**Tool Used:** UFW (Uncomplicated Firewall) v0.36.2  
-**Date:** March 11, 2026  
+**Tool Used:** UFW (Uncomplicated Firewall) v0.36.2   
 
 ---
 

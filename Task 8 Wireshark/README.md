@@ -3,7 +3,7 @@
 ## Internship: Oasis Infobyte — Security Analyst Internship
 **Level:** Intermediate  
 **Tool Used:** Wireshark  
-**Date:** March 10, 2026  
+
 
 ---
 
